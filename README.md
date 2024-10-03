@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konstantinos</h1>
 <h3 align="center">Computer Science student, website developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timssys&label=Profile%20views&color=0e75b6&style=flat" alt="timssys" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timssys" alt="timssys" /></a> </p>
-
 - 🔭 I’m currently working on [Timssys](www.timssys.com)
 
 - 🌱 I’m currently learning **C++, Assembly**
@@ -16,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/timinis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timinis" height="30" width="40" /></a>
-<a href="https://fb.com/ktiminis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ktiminis" height="30" width="40" /></a>
 <a href="https://instagram.com/timinis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timinis" height="30" width="40" /></a>
+<a href="https://fb.com/ktiminis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ktiminis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
