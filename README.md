@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📄 About Me:
 A first-year Computer Science student at Vrije Universiteit Amsterdam with a passion for technology and its diverse applications. Freelancing as a web developer, delivering user-friendly and functional web applications for clients. Always eager to explore new technologies and expand skills in areas like AI, data science, and system architecture, while staying committed to continuous learning and collaborative innovation.
 
 
