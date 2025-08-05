@@ -1,5 +1,12 @@
 # 📄 About Me
-A first-year Computer Science student at Vrije Universiteit Amsterdam with a passion for technology and its diverse applications. Freelancing as a web developer, delivering user-friendly and functional web applications for clients. Always eager to explore new technologies and expand skills in areas like AI, data science, and system architecture, while staying committed to continuous learning and collaborative innovation.
+I'm a second-year Computer Science student at Vrije Universiteit Amsterdam with a strong passion for technology and its diverse and impactful applications. Alongside my academic journey, I work as a freelance web developer, creating intuitive and reliable web applications tailored to client needs. I'm continuously exploring emerging fields such as Cyber security, AI, data science, and system architecture, with a commitment to continuous learning, innovation, and collaborative problem-solving.
+
+I am currently working on:
+- Full stack web application development with React.
+- UI Design with Figma and Penpot.
+- Cloud infrastructure with Ubuntu, Debian and Proxmox.
+- Microcomputing projects with the Raspberry Pi Pico W.
+
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ktiminis) 
