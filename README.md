@@ -1,5 +1,5 @@
 # About Me:
-I'm a second-year Computer Science student at Vrije Universiteit Amsterdam with a strong passion for technology and its diverse and impactful applications. Alongside my academic journey, I work as a freelance web developer, creating intuitive and reliable web applications tailored to client needs. I'm continuously exploring emerging fields such as Cyber security, AI, data science, and system architecture, with a commitment to continuous learning, innovation, and collaborative problem-solving.
+I'm a third-year Computer Science student at Vrije Universiteit Amsterdam with a strong passion for technology and its diverse and impactful applications. Alongside my academic journey, I work as a freelance web developer, creating intuitive and reliable web applications tailored to client needs. I'm continuously exploring emerging fields such as Cyber security, AI, data science, and system architecture, with a commitment to continuous learning, innovation, and collaborative problem-solving.
 
 
 ## Socials:
